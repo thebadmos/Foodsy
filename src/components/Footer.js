@@ -5,13 +5,10 @@ const Footer = () => {
   return (
     <div className="footer-distributed">
       <div className="footer-right">
-        <a href="#">
-          <i class="fa fa-twitter"></i>
-        </a>
-        <a href="#">
+        <a href="https://www.linkedin.com/in/olamijibadmos/">
           <i class="fa fa-linkedin"></i>
         </a>
-        <a href="#">
+        <a href="https://github.com/thebadmos">
           <i class="fa fa-github"></i>
         </a>
       </div>
